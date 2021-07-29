@@ -1,4 +1,4 @@
-define(['timeAPI', 'https://cdn.jsdelivr.net/gh/mjleaumont/newIAT@main/README.md'], function(APIConstructor, iatExtension){
+define(['timeAPI', 'https://cdn.jsdelivr.net/gh/mjleaumont/IAT/script/fulliat.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
