@@ -33,10 +33,6 @@ define(['timeAPI', 'https://cdn.jsdelivr.net/gh/mjleaumont/IAT/script/fulliat.js
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
-		},	
-
-		base_url : {//Where are your images at?
-			image : 'https://github.com/mjleaumont/IAT/blob/images/'
-		} 
+		}
 	});
 });
